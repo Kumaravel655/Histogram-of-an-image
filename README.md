@@ -7,14 +7,13 @@ Anaconda - Python 3.7
 
 ## Algorithm:
 ### Step1:
-<br>
 
+Import the necessary libraries and read two images, Color image and Gray Scale image.
 ### Step2:
-<br>
 
 ### Step3:
 <br>
-
+Calculate the Histogram of Gray scale image and each channel of the color image.
 ### Step4:
 <br>
 
